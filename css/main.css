@@ -138,7 +138,7 @@ button:hover {
     cursor: pointer;
 }
 
-@media (min-width: 1440px) {
+@media (min-width: 769px) {
     .card {
         flex-direction: row;
         max-width: 600px;
